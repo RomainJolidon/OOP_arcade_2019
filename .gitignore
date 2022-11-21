@@ -1,0 +1,11 @@
+.idea
+cmake-build-debug
+.vscode
+arcade
+*.o
+*.so
+vg*
+*.txt
+games/saves
+CMakeCache.txt
+CMakeLists.txt
